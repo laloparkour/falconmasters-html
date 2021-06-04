@@ -1,0 +1,10 @@
+Introducción: Html: es un lenguaje que nos permite crear estructuras de sitios web es un 
+lenguaje de marcado que nos permite crear estructuras de sitios web
+
+estructura: contenido(texto, imagenes, formularios, botones, etc)
+
+
+xhtml: es un derivado de html, es una mejora
+
+etiqueta: es un fragmento de codigo que representa algo en un sitio web <>etiqueta</>
+cada etiqueta tiene un contenido
