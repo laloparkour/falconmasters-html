@@ -8,3 +8,5 @@ xhtml: es un derivado de html, es una mejora
 
 etiqueta: es un fragmento de codigo que representa algo en un sitio web <>etiqueta</>
 cada etiqueta tiene un contenido, tiene atributos, y esos atributos tienen su valor
+
+A los enlaces se les pone un # en la ruta para que no te rediriga a ningun otra pagina
