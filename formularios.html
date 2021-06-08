@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <!-- Formulario: Es una parte en nuestro sitio web donde el usuario puede interactuar ya sea escribiendo texto o haciendo una accion, 
+    posteriormente nosotros procesaremos los datos y les daremos una respuesta -->
+    
+    <form action="" method="GET">
+        <!-- action: recibe URL de un archivo que se encarga de procesar los datos del formulario 
+        method: tipo de metodo por el cual enviaremos la informacion, GET o POST, todos los campos se llaman input(entrada) -->
+        
+        <!-- type: atributo que define que tipo de entrada queremos, name: nos permite establecer al servidor que valor estamos pidiendo -->
+        <label for="nombre">Ingrese su nombre: </label>
+        <input type="text" placeholder="Nombre" maxlength="5" name="password" id="nombre"> 
+        <input type="password" placeholder="Contraseña" maxlength="10", name="password" id="password">
+        <input type="email" name="correo" id="">
+        <input type="radio" name="" id="">Hombre
+        <input type="radio" name="" id="">Mujer
+        <input type="button" value="Boton">
+        <input type="submit" value="Enviar">
+        <select name="" id="">
+            <option value="México">Mexico</option>
+            <option value="Colombia">Colombia</option>
+        </select>
+        
+
+    </form>
+
+
+</body>
+</html>
